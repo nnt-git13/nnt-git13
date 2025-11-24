@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathan Teshome</h1>
 <h3 align="center">Computer Architecture, Accelerators & Systems @ MIT (Sophomore)</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nnt-git13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 🛠 I’m currently working on  
@@ -42,23 +38,29 @@ GPU kernel fusion, memory tiling, attention kernels, RISC-V pipeline design & IS
 ## 🛠 Languages & Tools  
 <p align="left">
 
-<!-- LOW LEVEL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>  
+<!-- SYSTEM & ARCHITECTURE -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 
 <!-- GPU / ML -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cuda_logo.png" width="70"/>  
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>  
-<img src="https://raw.githubusercontent.com/openai/triton/master/python/triton/logo.png" width="45" height="45"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cuda_logo.png" width="70"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/openai/triton/master/python/triton/logo.png" width="45" height="45"/>
 
-<!-- HARDWARE -->
-<img src="https://seeklogo.com/images/X/xilinx-logo-85F95B8A6E-seeklogo.com.png" width="45"/>  
-<img src="https://raw.githubusercontent.com/verilator/verilator/master/docs/logo/verilator_600.png" width="80"/>  
+<!-- HARDWARE & RTL -->
+<img src="https://seeklogo.com/images/X/xilinx-logo-85F95B8A6E-seeklogo.com.png" width="45"/>
+<img src="https://raw.githubusercontent.com/verilator/verilator/master/docs/logo/verilator_600.png" width="80"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_RISC-V.svg" width="65"/>
 
-<!-- DATABASE / DATA -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>  
+<!-- TOOLS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+
+<!-- DATA / BACKEND -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" width="45" height="45"/>
 
 </p>
 
