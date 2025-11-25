@@ -8,19 +8,13 @@
 - **[riscv_quant.accel](https://github.com/nnt-git13/riscv_quant.accel)** — RISC-V Vector CPU + Monte-Carlo Quant Finance Accelerator (FPGA)
 
 ### 🌱 I’m currently learning  
-FPGA RTL (SystemVerilog, AXI4, BRAM/URAM), GPU kernel optimization (CUDA, Triton), compiler internals (IR transforms, FX → fused ops), quant finance modeling, OS/systems & memory models
+SystemVerilog · AXI4 · BRAM/URAM · CUDA kernels · Triton scheduling · compiler IR · PyTorch FX lowering · quant finance modeling
 
 ### 💬 Ask me about  
-GPU kernel fusion · Tensor layout optimization · Attention kernels · RISC-V ISA extensions · RTL pipelines · Monte-Carlo engines · FPGA flows · Verilator/Vivado · PyTorch FX lowering
+GPU kernel fusion · memory tiling · attention kernels · RISC-V ISA extensions · RTL pipelines · MC engines · Verilator/Vivado · FX → fused kernels
 
 ### 📫 Contact  
 **nnt@mit.edu**
-
-### 📄 Resume  
-[View my resume](https://drive.google.com/file/d/1LEw89Yp9xyt4qjB9-51Aq_J5x-4JXdvD/view?usp=share_link)
-
-### ⚡ Fun fact  
-**“I’ve played every position on the soccer pitch at least once.”**
 
 ---
 
@@ -34,38 +28,47 @@ GPU kernel fusion · Tensor layout optimization · Attention kernels · RISC-V I
 ---
 
 # 🛠 Languages & Tools  
-### **Core Languages**
+
+## **Core Languages**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 </p>
 
-### **GPU / ML / Systems**
+## **GPU / ML / Systems**
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cuda_logo.png" width="70"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/openai/triton/master/python/triton/logo.png" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/llvm/llvm-project/main/llvm/docs/doxygen/html/LLVM-Logo.png" width="60"/>
-  <img src="https://raw.githubusercontent.com/google/flatbuffers/master/docs/source/images/logo_flatbuffers.png" width="60"/>
+  <!-- CUDA -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cuda/cuda-original.svg" width="60"/>
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+  <!-- Triton -->
+  <img src="https://raw.githubusercontent.com/openai/triton/main/python/triton/logo.png" width="50"/>
+  <!-- LLVM -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" width="50"/>
 </p>
 
-### **Hardware / RTL / FPGA**
+## **Hardware / RTL / FPGA**
 <p>
-  <img src="https://seeklogo.com/images/X/xilinx-logo-85F95B8A6E-seeklogo.com.png" width="55"/>
-  <img src="https://raw.githubusercontent.com/verilator/verilator/master/docs/logo/verilator_600.png" width="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_RISC-V.svg" width="65"/>
+  <!-- Xilinx -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xilinx/xilinx-original.svg" width="55"/>
+  <!-- Verilog -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width="55"/>
+  <!-- RISC-V -->
+  <img src="https://raw.githubusercontent.com/riscv/riscv-logo/master/SVG/RISCV-Logo.svg" width="65"/>
+  <!-- KiCad -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="55"/>
+  <!-- Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/KiCad-Logo.svg" width="55"/>
 </p>
 
-### **Backend / Data / Infra**
+## **Backend / Data / Infra**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
 </p>
 
 ---
