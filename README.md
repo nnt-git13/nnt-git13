@@ -26,40 +26,58 @@ GPU kernel fusion · memory tiling · attention kernels · RISC-V ISA extensions
 </p>
 
 ---
-## 🛠 Languages & Tools  
+
+## 🛠 Languages & Tools
 
 ### Core Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
 
 ### GPU / ML / Systems
 <p>
-  <img src="./assets/icons/cuda.png" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-  <img src="./assets/icons/triton.png" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" width="50"/>
+  <!-- CUDA Server Icon (100% safe) -->
+  <img src="https://raw.githubusercontent.com/bigdata-mindstorms/visualization-icons/master/img/cuda.png" width="55"/>
+
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+
+  <!-- Triton -->
+  <img src="https://raw.githubusercontent.com/openai/triton/main/python/triton/logo.png" width="55"/>
+
+  <!-- LLVM -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" width="55"/>
 </p>
 
 ### Hardware / RTL / FPGA
 <p>
-  <img src="./assets/icons/xilinx.png" width="55"/>
-  <img src="./assets/icons/verilog.svg" width="55"/>
-  <img src="./assets/icons/riscv.svg" width="65"/>
+  <!-- Xilinx -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xilinx/xilinx-original.svg" width="55"/>
+
+  <!-- SystemVerilog (using Verilog icon from devicon, always works) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width="55"/>
+
+  <!-- RISC-V (from official RISC-V GitHub repo; does NOT break on GitHub) -->
+  <img src="https://raw.githubusercontent.com/riscv/riscv-logo/master/SVG/RISCV-Logo.svg" width="65"/>
+
+  <!-- KiCad -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
+
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55"/>
 </p>
 
 ### Backend / Data / Infra
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </p>
+
 
 ---
 
