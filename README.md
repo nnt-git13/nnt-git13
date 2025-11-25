@@ -26,8 +26,5 @@ Linux · Git
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnt-git13&theme=dark&hide_border=true" height="160" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nnt-git13&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="160" />
 </p>
