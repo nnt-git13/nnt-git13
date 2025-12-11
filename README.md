@@ -12,7 +12,7 @@
   <a href="https://github.com/nnt-git13">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nathan-t-">
+  <a href="https://www.linkedin.com/in/nathan-teshome-84b675325">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
