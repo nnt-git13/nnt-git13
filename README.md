@@ -61,14 +61,6 @@ A RISC-V Vector CPU + Quant Finance Accelerator with custom ISA extensions, pipe
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnt-git13&theme=dark&hide_border=true" height="165" />
-</p>
-
----
-
 <p align="center">
   <i>Always building. Always profiling. Always optimizing.</i>
 </p>
