@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nnt-git13&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
   <b>Computer Architecture · GPUs · Accelerators · Systems @ MIT</b>
 </p>
 
