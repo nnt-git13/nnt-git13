@@ -36,11 +36,11 @@
 
 ## 📌 Pinned Projects
 
-### <a href="https://github.com/nnt-git13/flashflow">⚡ FlashFlow</a>
+### <a href="https://github.com/nnt-git13/flashflow">⚡ FlashFlow (In Progress) </a>
 
 GPU-optimized Transformer inference runtime featuring fused CUDA kernels, auto-tuning, and low-latency compute paths.
 
-### <a href="https://github.com/nnt-git13/riscv_quant.accel">📈 riscv_quant.accel</a>
+### <a href="https://github.com/nnt-git13/riscv_quant.accel">📈 riscv_quant.accel (In Progress) </a>
 
 A RISC-V Vector CPU + Quant Finance Accelerator with custom ISA extensions, pipelined execution units, and simulation tooling.
 
