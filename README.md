@@ -28,7 +28,7 @@
 
 **GPU / ML:** CUDA · Triton · PyTorch · TensorFlow
 
-**Hardware:** Verilog / SystemVerilog · RISC-V · FPGA · PCB Design
+**Hardware:** Verilog / SystemVerilog · RISC-V · FPGA 
 
 **Systems:** Linux · Git · Compilers (MLIR/LLVM) · ROS2 · Docker
 
