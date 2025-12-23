@@ -44,6 +44,10 @@ GPU-optimized Transformer inference runtime featuring fused CUDA kernels, auto-t
 
 A RISC-V Vector CPU + Quant Finance Accelerator with custom ISA extensions, pipelined execution units, and simulation tooling.
 
+### <a href="https://https://github.com/nnt-git13/XGenius">🚀 XGenius (In Progress) </a>
+
+AI-powered FPL optimization platform with ML predictions, squad optimization, and an intelligent copilot.
+
 ---
 
 ## 🎓 Education & Experience
