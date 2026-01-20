@@ -24,25 +24,23 @@
 
 ## 🔧 Skills
 
-**Languages:** C · C++ · Python · CUDA · JavaScript · TypeScript · Verilog · Assembly
+**Languages:** C · C++ · Python · JavaScript · TypeScript · Assembly
 
-**GPU / ML:** CUDA · Triton · PyTorch · TensorFlow
+**GPU / ML:** PyTorch · TensorFlow
 
-**Hardware:** Verilog / SystemVerilog · RISC-V · FPGA 
-
-**Systems:** Linux · Git · Compilers (MLIR/LLVM) · ROS2 · Docker
+**Systems:** Linux · Git · ROS2 · Docker
 
 ---
 
 ## 📌 Pinned Projects
 
-### <a href="https://github.com/nnt-git13/flashflow">⚡ FlashFlow (In Progress) </a>
+### <a href="https://github.com/nnt-git13/ExploitEV-Pokerbots-2026">⚡ Pokerbots (In Progress) </a>
 
-GPU-optimized Transformer inference runtime featuring fused CUDA kernels, auto-tuning, and low-latency compute paths.
+An autonomous poker agent designed for MIT Pokerbots 2026, combining opponene modeling and expected-value-driven decision making
 
 ### <a href="https://github.com/nnt-git13/riscv_quant.accel">📈 riscv_quant.accel (In Progress) </a>
 
-A RISC-V Vector CPU + Quant Finance Accelerator with custom ISA extensions, pipelined execution units, and simulation tooling.
+A RISC-V Vector CPU + Quant Accelerator with custom ISA extensions, pipelined execution units, and simulation tooling.
 
 ### <a href="https://https://github.com/nnt-git13/XGenius">🚀 XGenius (In Progress) </a>
 
@@ -58,10 +56,11 @@ AI-powered FPL optimization platform with ML predictions, squad optimization, an
 - **Teaching:** Teaching Assistant - Classical Mechanics @ MIT Physics Department
 
 **Current Focus:**
-- Reinforcement learning of swarm dynamics
-- GPU kernel optimization with CUDA and Triton
-- Compiler infrastructure (MLIR/LLVM)
-- Autonomous robotics and sensor fusion
+• Reinforcement learning of swarm dynamics
+• Backend webdevelopment with JS and Django
+• Autonomous robotics and sensor fusion
+• Machine Learning Applications with large language models
+• GPU and CPU level architecture optimization
 
 ---
 
