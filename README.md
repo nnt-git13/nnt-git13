@@ -38,10 +38,6 @@
 
 An autonomous poker agent designed for MIT Pokerbots 2026, combining opponene modeling and expected-value-driven decision making
 
-### <a href="https://github.com/nnt-git13/riscv_quant.accel">📈 riscv_quant.accel (In Progress) </a>
-
-A RISC-V Vector CPU + Quant Accelerator with custom ISA extensions, pipelined execution units, and simulation tooling.
-
 ### <a href="https://https://github.com/nnt-git13/XGenius">🚀 XGenius (In Progress) </a>
 
 AI-powered FPL optimization platform with ML predictions, squad optimization, and an intelligent copilot.
