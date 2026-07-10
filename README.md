@@ -34,11 +34,11 @@
 
 ## 📌 Pinned Projects
 
-### <a href="https://github.com/nnt-git13/ExploitEV-Pokerbots-2026">⚡ Pokerbots (In Progress) </a>
+### <a href="https://github.com/nnt-git13/CUDAlpha">⚡ CUDAlpha (In Progress) </a>
 
-An autonomous poker agent designed for MIT Pokerbots 2026, combining opponene modeling and expected-value-driven decision making
+A measurement-first GPU performance-engineering testbed: one reproducible harness from synthetic market data to profiled, validated CPU-vs-GPU speedups
 
-### <a href="https://https://github.com/nnt-git13/XGenius">🚀 XGenius (In Progress) </a>
+### <a href="https://https://github.com/nnt-git13/XGenius">🚀 XGenius (Version 1!) </a>
 
 AI-powered FPL optimization platform with ML predictions, squad optimization, and an intelligent copilot.
 
