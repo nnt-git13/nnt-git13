@@ -38,7 +38,7 @@
 
 A measurement-first GPU performance-engineering testbed: one reproducible harness from synthetic market data to profiled, validated CPU-vs-GPU speedups
 
-### <a href="https://https://github.com/nnt-git13/XGenius">🚀 XGenius (Version 1!) </a>
+### <a href="https://github.com/nnt-git13/XGenius">🚀 XGenius (Version 1!) </a>
 
 AI-powered FPL optimization platform with ML predictions, squad optimization, and an intelligent copilot.
 
